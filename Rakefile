@@ -3,11 +3,11 @@ require 'rake/gempackagetask'
 
 spec = Gem::Specification.new do |s|
   s.name = "rails_appengine"
-  s.version = '0.0.1'
+  s.version = '0.0.2'
   s.platform = Gem::Platform::RUBY
   s.has_rdoc = false
   s.extra_rdoc_files = ["README.rdoc", "LICENSE"]
-  s.description = "Config files for Rails on AppEngine"
+  s.description = "Config files for Rails on App Engine"
   s.summary = "We intend to provide a common set of config files " +
       "for Rails 2.3.5 (and eventually 3.0) on Google App Engine."
   s.authors = ["Takeru Sasaki", "John Woodell"]
