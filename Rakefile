@@ -10,8 +10,9 @@ spec = Gem::Specification.new do |s|
   s.description = "Config files for Rails on App Engine"
   s.summary = "We intend to provide a common set of config files " +
       "for Rails 2.3.5 (and eventually 3.0) on Google App Engine."
-  s.authors = ["Takeru Sasaki", "John Woodell"]
-  s.email = ["sasaki.takeru@gmail.com", "woodie@netpress.com"]
+  s.authors = ["Takeru Sasaki", "Josh S Moore", "John Woodell"]
+  s.email = ["sasaki.takeru@gmail.com", "joshsmoore@gmail.com",
+             "woodie@netpress.com"]
   s.homepage = "http://github.com/takeru/rails_appengine"
   s.require_path = 'lib'
   s.files = %w(LICENSE README.rdoc Rakefile) + Dir.glob("lib/**/*") 
