@@ -1,4 +1,4 @@
 = Rails AppEngine
 
-We intends to provide a common set of patches to enable
+We intend to provide a common set of config files for
 Rails 2.3.5 (and eventually 3.0) on Google App Engine.
