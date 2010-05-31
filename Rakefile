@@ -3,7 +3,7 @@ require 'rake/gempackagetask'
 
 spec = Gem::Specification.new do |s|
   s.name = "rails_appengine"
-  s.version = '0.0.3'
+  s.version = '0.0.4'
   s.platform = Gem::Platform::RUBY
   s.has_rdoc = false
   s.extra_rdoc_files = ["README.rdoc", "LICENSE"]
